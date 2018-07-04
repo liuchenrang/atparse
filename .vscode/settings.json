@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "ascii.h": "c",
+        "uart.h": "c",
+        "at_parse.h": "c",
+        "types.h": "c",
+        "ipc.h": "c",
+        "errno.h": "c",
+        "error.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "threads.h": "c",
+        "pthread.h": "c",
+        "__locale": "c",
+        "thread": "c",
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "future": "c",
+        "__mutex_base": "c",
+        "condition_variable": "c",
+        "istream": "c"
+    }
+}
